@@ -1,0 +1,9 @@
+.Weather {
+  background-color: lightcoral;
+  border: 3px solid lightblue;
+  color: darkcyan;
+  /*space around the weather div*/
+  /*margin: 30px;*/
+  border-radius: 4px;
+  padding: 20px;
+}
